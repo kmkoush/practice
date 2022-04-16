@@ -1,0 +1,8 @@
+.price-card{
+text-align: center;
+
+}
+.price-container{
+    display: flex;
+    text-align:center;
+}

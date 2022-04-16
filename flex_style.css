@@ -1,0 +1,15 @@
+.price-container{
+    background-color:yellow;
+    display: flex;  /*takes the space as per the contant */
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: row;
+    align-items: flex-start;
+}
+.price-card{ 
+    
+    text-align: center;
+    border: 1px solid gray;
+    width:30%;
+
+}

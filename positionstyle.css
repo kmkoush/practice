@@ -1,0 +1,23 @@
+.div1{
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: absolute;
+    right: 30px;
+}
+.div2{
+    width: 250px;
+    height: 250px;
+    background-color:yellow;
+    position: relative;
+}
+.div3{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+} 
+h1{
+    position:absolute;
+    right: 10px;
+    bottom: 10px;
+}
